@@ -4,8 +4,6 @@ Private portability repository for this machine's `oh-my-pi` (`omp`) coding-agen
 
 This repository preserves portable configuration. It does not preserve credentials, databases, session history, caches, browser state, or platform-native binaries.
 
-## Current snapshot
-
 - OMP release: `18.14.1`
 - Active OMP directory: `~/.omp/agent`
 - Dark theme: `legible-dark`
@@ -27,7 +25,15 @@ Review the generated changes before committing them.
 
 ## Use from Windows
 
-Open this repository in Cursor. Ask the agent to read `AGENTS.md`, then run:
+Open this repository in Cursor. Open `FABLE-SETUP.md` and tell Fable:
+
+```text
+Execute FABLE-SETUP.md completely.
+```
+
+That file contains the complete Windows procedure, safety rules, success criteria, and reporting requirements.
+
+The underlying commands are:
 
 ```powershell
 .\scripts\bootstrap-windows.ps1
@@ -43,6 +49,7 @@ omp login openrouter
 ```
 
 Never place that key in this repository.
+
 
 ## Repository layout
 

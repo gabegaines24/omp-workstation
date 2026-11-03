@@ -6,6 +6,8 @@ Maintain this repository as the portable source of truth for the user's `oh-my-p
 
 The repository must let a Cursor agent reproduce the Mac setup on Windows with minimal user involvement.
 
+When the user requests Windows setup, execute `FABLE-SETUP.md` as the single task file. Do not ask the user to restate its instructions.
+
 ## Operating rules
 
 1. Read this file before changing anything.
