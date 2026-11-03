@@ -1,0 +1,21 @@
+---
+description: Safely maintain and install the portable oh-my-pi workstation profile
+alwaysApply: true
+---
+
+# OMP Workstation
+
+Treat this repository as the portable source of truth for the user's oh-my-pi setup.
+
+- Read root `AGENTS.md` before acting.
+- Detect macOS or Windows before running scripts.
+- Mac refresh: `scripts/sync-from-mac.sh`.
+- Windows install: `scripts/bootstrap-windows.ps1`.
+- Windows verification: `scripts/verify-windows.ps1`.
+- Preserve OMP native directory layout.
+- Do not flatten or rewrite skills, commands, rules, hooks, tools, plugins, or MCP configuration.
+- Never copy or print credentials, `.env` files, private keys, OMP databases, session history, caches, logs, browser profiles, or native binaries.
+- Back up Windows OMP state before importing.
+- Ask only for provider login or secret entry.
+- Record platform path repairs and skipped capabilities.
+- Do not claim success until verification passes.

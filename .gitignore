@@ -1,0 +1,40 @@
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+secrets.yml
+**/secrets.yml
+**/*secret*
+!secrets.example.env
+**/*credential*
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# OMP runtime state
+**/*.db
+**/*.db-wal
+**/*.db-shm
+**/sessions/
+**/terminal-sessions/
+**/blobs/
+**/cache/
+**/logs/
+**/run/
+**/natives/
+**/browser-profiles/
+**/puppeteer/
+**/*.lock
+
+# Generated reports and local backups
+MIGRATION-REPORT.md
+IMPORT-RESULT.md
+*.backup-*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/

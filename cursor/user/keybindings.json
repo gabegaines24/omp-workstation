@@ -1,0 +1,17 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "cmd+i",
+        "command": "composerMode.agent"
+    },
+    {
+        "key": "cmd+k v",
+        "command": "markdown-preview-enhanced.openPreviewToTheSide",
+        "when": "editorLangId == markdown && !notebookEditorFocused"
+    },
+    {
+        "key": "cmd+shift+v",
+        "command": "markdown-preview-enhanced.openPreview",
+        "when": "editorLangId == markdown && !notebookEditorFocused"
+    }
+]

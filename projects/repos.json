@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "workflowRoot": "~/workflow",
+  "generatedAt": "2026-11-03T01:55:14Z",
+  "generatedBy": "scripts/inventory-workflow.sh",
+  "repositories": [
+    {
+      "name": "data_pipeline",
+      "relativePath": "projects/data_pipeline",
+      "origin": "https://github.com/gabegaines24/Data-Pipeline-ETL-Tool.git",
+      "branch": "main",
+      "dirtyFileCount": 0,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "data_prac",
+      "relativePath": "projects/data_prac",
+      "origin": "https://github.com/gabegaines24/data-mining-prac",
+      "branch": "main",
+      "dirtyFileCount": 1,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "stroke-risk",
+      "relativePath": "projects/stroke-risk",
+      "origin": "https://github.com/gabegaines24/stroke-risk-analysis-report.git",
+      "branch": "main",
+      "dirtyFileCount": 5,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "calendar",
+      "relativePath": "projects/calendar",
+      "origin": "https://github.com/gabegaines24/canvas-notion-sync.git",
+      "branch": "main",
+      "dirtyFileCount": 0,
+      "hasOmp": false,
+      "hasCursor": true,
+      "hasAgents": false
+    },
+    {
+      "name": "data-quality-monitor",
+      "relativePath": "projects/data-quality-monitor",
+      "origin": "https://github.com/gabegaines24/data-quality-monitor.git",
+      "branch": "main",
+      "dirtyFileCount": 1,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "Stock-Database",
+      "relativePath": "projects/Stock-Database",
+      "origin": "https://github.com/gabegaines24/Stock-Database",
+      "branch": "main",
+      "dirtyFileCount": 3,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "equation_anamation",
+      "relativePath": "projects/equation_anamation",
+      "origin": "https://github.com/gabegaines24/equation-anamation.git",
+      "branch": "main",
+      "dirtyFileCount": 0,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "fort drop map",
+      "relativePath": "projects/fort drop map",
+      "origin": "https://github.com/gabegaines24/fortnite-drop-map.git",
+      "branch": "main",
+      "dirtyFileCount": 0,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "movie_recommender",
+      "relativePath": "projects/movie_recommender",
+      "origin": "https://github.com/gabegaines24/movie_recommender.git",
+      "branch": "main",
+      "dirtyFileCount": 5,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "website",
+      "relativePath": "projects/website",
+      "origin": "https://github.com/gabegaines1024/website.git",
+      "branch": "main",
+      "dirtyFileCount": 0,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "meal prep",
+      "relativePath": "projects/meal prep",
+      "origin": "git@github.com:gabegaines24/meal-prep.git",
+      "branch": "main",
+      "dirtyFileCount": 0,
+      "hasOmp": false,
+      "hasCursor": true,
+      "hasAgents": false
+    },
+    {
+      "name": "NBA-Player-Statistics",
+      "relativePath": "projects/NBA-Player-Statistics",
+      "origin": "https://github.com/gabegaines24/NBA-Player-Statistics",
+      "branch": "main",
+      "dirtyFileCount": 1,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "blackhole_ray_tracer",
+      "relativePath": "projects/blackhole_ray_tracer",
+      "origin": "git@github.com:gabegaines24/Black-Hole-Ray-Tracer.git",
+      "branch": "main",
+      "dirtyFileCount": 52,
+      "hasOmp": false,
+      "hasCursor": true,
+      "hasAgents": true
+    },
+    {
+      "name": "project_chameleon",
+      "relativePath": "projects/project_chameleon",
+      "origin": "https://github.com/bjornefisk/ProjectChameleon.git",
+      "branch": "main",
+      "dirtyFileCount": 0,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": true
+    },
+    {
+      "name": "noise",
+      "relativePath": "projects/noise",
+      "origin": "https://github.com/gabegaines24/noise.git",
+      "branch": "main",
+      "dirtyFileCount": 0,
+      "hasOmp": false,
+      "hasCursor": true,
+      "hasAgents": false
+    },
+    {
+      "name": "dataset-diff-mcp",
+      "relativePath": "projects/dataset-diff-mcp",
+      "origin": "https://github.com/gabegaines24/dataset-diff-mcp.git",
+      "branch": "main",
+      "dirtyFileCount": 2,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "BluPrint",
+      "relativePath": "projects/BluPrint",
+      "origin": "https://github.com/gabegaines24/BluPrint",
+      "branch": "main",
+      "dirtyFileCount": 23,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "derivative-pricing",
+      "relativePath": "projects/derivative-pricing",
+      "origin": "https://github.com/gabegaines24/derivative-pricing.git",
+      "branch": "main",
+      "dirtyFileCount": 0,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "custom_structures",
+      "relativePath": "projects/custom_structures",
+      "origin": "https://github.com/gabegaines24/custom-collections.git",
+      "branch": "main",
+      "dirtyFileCount": 2,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "traveling",
+      "relativePath": "projects/traveling",
+      "origin": "https://github.com/gabegaines24/nba-travel-detection-lab.git",
+      "branch": "feature/t09-temporal-events",
+      "dirtyFileCount": 0,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": true
+    },
+    {
+      "name": "jobs",
+      "relativePath": "projects/jobs",
+      "origin": "https://github.com/gabegaines24/jobs",
+      "branch": "main",
+      "dirtyFileCount": 2,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "projects",
+      "relativePath": "projects",
+      "origin": "https://github.com/gabegaines1024/Black-Hole-Ray-Tracer.git",
+      "branch": "main",
+      "dirtyFileCount": 109,
+      "hasOmp": false,
+      "hasCursor": true,
+      "hasAgents": false
+    },
+    {
+      "name": "surge_pred",
+      "relativePath": "projects/surge_pred",
+      "origin": "git@github.com:gabegaines24/Surge-Prediction-Multiplier.git",
+      "branch": "main",
+      "dirtyFileCount": 4,
+      "hasOmp": false,
+      "hasCursor": true,
+      "hasAgents": false
+    },
+    {
+      "name": "RAM",
+      "relativePath": "projects/RAM",
+      "origin": "https://github.com/gabegaines24/RAM-Predictions",
+      "branch": "main",
+      "dirtyFileCount": 0,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "Asteroid-Tracker",
+      "relativePath": "projects/Asteroid-Tracker",
+      "origin": "https://github.com/gabegaines24/Asteroid-Tracker",
+      "branch": "main",
+      "dirtyFileCount": 5,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "duplicates",
+      "relativePath": "projects/personal_scripts/duplicates",
+      "origin": "",
+      "branch": "master",
+      "dirtyFileCount": 3,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "neural-network-compressor",
+      "relativePath": "neural-network-compressor",
+      "origin": "git@github.com:gabegaines24/neural-network-compressor.git",
+      "branch": "main",
+      "dirtyFileCount": 0,
+      "hasOmp": false,
+      "hasCursor": true,
+      "hasAgents": false
+    },
+    {
+      "name": "ml",
+      "relativePath": "ml",
+      "origin": "https://github.com/gabegaines24/ml-prac.git",
+      "branch": "main",
+      "dirtyFileCount": 11,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "flask",
+      "relativePath": "oa/grow_therapy/practice/flask",
+      "origin": "https://github.com/gabegaines24/flask.git",
+      "branch": "main",
+      "dirtyFileCount": 2,
+      "hasOmp": false,
+      "hasCursor": true,
+      "hasAgents": false
+    },
+    {
+      "name": "workflow",
+      "relativePath": "/Users/gabegaines/workflow",
+      "origin": "https://github.com/gabegaines24/flask",
+      "branch": "main",
+      "dirtyFileCount": 21,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "Autograder-For-Text-Responses",
+      "relativePath": "neovim/Python/Autograder-For-Text-Responses",
+      "origin": "https://github.com/gabegaines1024/Autograder-For-Text-Responses",
+      "branch": "main",
+      "dirtyFileCount": 1,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    },
+    {
+      "name": "Python",
+      "relativePath": "neovim/Python",
+      "origin": "https://github.com/gabegaines1024/Autograder-For-Text-Responses",
+      "branch": "main",
+      "dirtyFileCount": 10,
+      "hasOmp": false,
+      "hasCursor": false,
+      "hasAgents": false
+    }
+  ]
+}
